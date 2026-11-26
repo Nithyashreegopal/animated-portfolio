@@ -1,0 +1,45 @@
+# robots.txt — nithyashreegopal.github.io
+# Nithyashree G V — Aspiring Data Analyst & AI/ML Enthusiast
+# https://nithyashreegopal.github.io
+
+User-agent: *
+Allow: /
+
+# Explicit allow for all important pages
+Allow: /about
+Allow: /skills
+Allow: /projects
+Allow: /blog
+Allow: /contact
+Allow: /assets/
+Allow: /assets/nithyashree.jpg
+Allow: /assets/nithyashree_avatar.png
+Allow: /assets/profiles/
+Allow: /assets/favicon.svg
+
+# Sitemap location
+Sitemap: https://nithyashreegopal.github.io/sitemap.xml
+
+# Googlebot — no restrictions
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Googlebot Images — allow all profile images
+User-agent: Googlebot-Image
+Allow: /assets/nithyashree.jpg
+Allow: /assets/nithyashree_avatar.png
+Allow: /assets/profiles/
+
+# Search bots
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /

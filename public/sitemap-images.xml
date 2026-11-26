@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Core Profile Images -->
+  <url>
+    <loc>https://nithyashreegopal.github.io/</loc>
+    <image:image>
+      <image:loc>https://nithyashreegopal.github.io/assets/nithyashree.jpg</image:loc>
+      <image:title>Nithyashree G V - Aspiring Data Analyst &amp; AI Developer</image:title>
+      <image:caption>Official profile photo of Nithyashree G V, Artificial Intelligence &amp; Data Science student at MKCE Karur</image:caption>
+      <image:geo_location>Karur, Tamil Nadu, India</image:geo_location>
+      <image:license>https://nithyashreegopal.github.io/license</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://nithyashreegopal.github.io/assets/nithyashree_avatar.png</image:loc>
+      <image:title>Nithyashree G V - Avatar Profile</image:title>
+      <image:caption>Nithyashree G V circular avatar profile photo</image:caption>
+      <image:geo_location>Karur, Tamil Nadu, India</image:geo_location>
+      <image:license>https://nithyashreegopal.github.io/license</image:license>
+    </image:image>
+  </url>
+
+</urlset>

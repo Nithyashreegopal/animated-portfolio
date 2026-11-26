@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- HOME PAGE -->
+  <url>
+    <loc>https://nithyashreegopal.github.io/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nithyashreegopal.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://nithyashreegopal.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nithyashreegopal.github.io/"/>
+  </url>
+
+  <!-- MAIN PAGES -->
+  <url>
+    <loc>https://nithyashreegopal.github.io/about</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nithyashreegopal.github.io/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nithyashreegopal.github.io/about"/>
+  </url>
+
+  <url>
+    <loc>https://nithyashreegopal.github.io/skills</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nithyashreegopal.github.io/skills"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nithyashreegopal.github.io/skills"/>
+  </url>
+
+  <url>
+    <loc>https://nithyashreegopal.github.io/projects</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nithyashreegopal.github.io/projects"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nithyashreegopal.github.io/projects"/>
+  </url>
+
+  <url>
+    <loc>https://nithyashreegopal.github.io/blog</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nithyashreegopal.github.io/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nithyashreegopal.github.io/blog"/>
+  </url>
+
+  <url>
+    <loc>https://nithyashreegopal.github.io/contact</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nithyashreegopal.github.io/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nithyashreegopal.github.io/contact"/>
+  </url>
+
+</urlset>
