@@ -3,7 +3,7 @@ import { Helmet } from "react-helmet-async";
 // ─────────────────────────────────────────────────────────────────────────────
 // CONSTANTS
 // ─────────────────────────────────────────────────────────────────────────────
-const BASE_URL = "https://nithyashreegopal.github.io";
+const BASE_URL = "https://animated-portfolio-ten-blush.vercel.app";
 const PROFILE_IMAGE = `${BASE_URL}/assets/nithyashree.jpg`;
 const SITE_NAME = "Nithyashree G V - AI & Data Science Developer";
 const PERSON_ID = `${BASE_URL}/#person`;

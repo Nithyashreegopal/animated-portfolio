@@ -1,6 +1,11 @@
 # Nithyashree G V - Portfolio
 
-A modern, minimal, and highly interactive portfolio website built to showcase projects, skills, and professional experience. The application features 3D elements, smooth animations, and a fully responsive design, ensuring an optimal viewing experience across all devices.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://animated-portfolio-ten-blush.vercel.app)
+[![Website](https://img.shields.io/badge/Website-Live-blue?style=for-the-badge)](https://animated-portfolio-ten-blush.vercel.app)
+
+> 🌐 **Live Website**: [https://animated-portfolio-ten-blush.vercel.app](https://animated-portfolio-ten-blush.vercel.app)
+
+A modern, minimal, and highly interactive 3D portfolio website built to showcase projects, technical skills, and professional experience. Features real-time 3D interactive graphics, custom network particle animations, glassmorphic UI, and multi-device responsive design.
 
 ## Features
 

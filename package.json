@@ -2,6 +2,7 @@
   "name": "nithyashree-portfolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://animated-portfolio-ten-blush.vercel.app",
   "type": "module",
   "scripts": {
     "dev": "vite",
